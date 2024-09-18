@@ -1,0 +1,116 @@
+body{
+    background-color: #fff;
+    color: white;
+  
+}
+
+
+.navbar{
+    background-color: #e5bd80;
+   padding: 10px;
+
+   
+}
+
+.all_parent{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.continer{
+    width: 40%;
+    padding: 40px;
+    background-color: #f4e5cc;
+    border-radius: 10px;
+}
+
+.formparent{
+  display: flex;
+  justify-content: flex-start;
+  flex-direction: column;
+
+}
+
+input{
+    border-radius: 3px;
+     padding: 5px;
+}
+
+hr{
+    height:1px;
+    border: 2px solid #cb7e1a;
+}
+
+button{
+    background-color:#e5bd80 ;
+    border-radius: 10px;
+    width: 40%;   
+    padding: 6px;
+    align-self: center;
+    color: #4d2e00;
+}
+
+
+
+body{
+    background-color: #fff;
+    color: white;
+  
+}
+
+
+.navbar{
+    background-color: #e5bd80;
+   padding: 10px;
+
+   
+}
+
+.all_parent{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.continer{
+    width: 40%;
+    padding: 40px;
+    background-color: #f4e5cc;
+    border-radius: 10px;
+}
+
+.formparent{
+  display: flex;
+  justify-content: flex-start;
+  flex-direction: column;
+
+}
+
+input{
+    border-radius: 3px;
+     padding: 5px;
+}
+
+hr{
+    height:1px;
+    border: 2px solid #cb7e1a;
+}
+
+button{
+    background-color:#e5bd80 ;
+    border-radius: 10px;
+    width: 40%;   
+    padding: 6px;
+    align-self: center;
+    color: #4d2e00;
+}
+
+
+
+
+
+.card-body{
+    width: 100%;
+}
+
